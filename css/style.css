@@ -7,7 +7,6 @@ html {
 @media screen and (max-width: 1024px){
 	html,body {
 		width: 100%;
-		overflow: hidden;
 	}
 }
 /*this is the header section*/
@@ -24,7 +23,7 @@ header {
 	header {
 		height: 50vh;
 		background-size: none;
-		width: 1470px;
+		width: 1570px;
 		height: 900px;
 	}
 }
