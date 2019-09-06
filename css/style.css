@@ -23,7 +23,7 @@ header {
 @media screen and (max-width: 400px){
 	header {
 		height: 50vh;
-		background-size: contain;
+		background-size: cover;
 	}
 }
 
